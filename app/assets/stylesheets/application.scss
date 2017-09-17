@@ -6,6 +6,13 @@ $icon-font-path: "bootstrap-sass/assets/fonts/bootstrap/";
 @import 'modern-business';
 @import 'scrolling-nav';
 
+body {
+  padding-top: 0;
+}
 .font-awesome {
   color: black;
+}
+
+.right {
+  float: right;
 }
